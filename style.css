@@ -34,8 +34,8 @@ body{
     overflow-x: hidden;
     padding-left: 1rem;
     padding-right: 1rem;
-    padding-top: 5.6rem;
-    padding-bottom: 5.6rem;
+    padding-top: 5.33rem;
+    padding-bottom: 5.33rem;
     position: relative;
 
 }
@@ -115,25 +115,24 @@ header span{
 
 
 .functions .box1{
-    border-top: 4px solid var(--Red);
-     transform: translateY(50%); 
+    
+    border-top: 4px solid var(--Blue);
+    transform: translateY(50%); 
 
-    
-    
 }
 
 .functions .box2{
-    border-top: 4px solid var(--Blue);
+    border-top: 4px solid var(--Red);
 }
 
 .functions .box3{
-    border-top: 4px solid var(--Orange);
+    border-top: 4px solid var(--Blue);
     transform: translateY(50%); 
     
 }
 
 .functions .box4{
-    border-top: 4px solid var(--Blue);
+    border-top: 4px solid var(--Orange);
     
     
     
